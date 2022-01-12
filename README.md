@@ -2,6 +2,7 @@
 
 
 <a align="center" href="https://github.com/dmcchanaka"> <img width="20px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="dmcchanaka: PHP" />
+    <a align="center" href="https://github.com/dmcchanaka"> <img width="20px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg" alt="dmcchanaka: VUEJS" />
 
 I am D.M C.Chanaka. I am a self-taught developer and like to study anything related to programming. Currently I am interested on @laravel and I am actively looking for a job on laravel & vueJs.
 
