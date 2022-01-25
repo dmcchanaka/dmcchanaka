@@ -35,6 +35,15 @@
 ![Jira](https://img.shields.io/badge/-Jira-fff?style=flat&logo=jira-software&logoColor=blue)
 ![Docker](https://img.shields.io/badge/-Docker-fff?style=flat&logo=Docker)
 
+![Chanaka's Github Profile Views](https://komarev.com/ghpvc/?username=cchanaka&color=blueviolet) 
+
+<a href="https://github.com/cchanaka">
+
+![](https://github.com/cchanaka/blob/master/generated/overview.svg)
+![](https://github.com/cchanaka/blob/master/generated/languages.svg)
+
+</a>
+
 <!--START_SECTION:waka-->
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-15-blue)
 
