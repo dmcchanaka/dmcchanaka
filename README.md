@@ -43,9 +43,11 @@
 <a href="https://github.com/dmcchanaka">
     <img height="150px" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dmcchanaka&theme=radical&layout=compact&langs_count=10" />
 </a><br/>
-<a href="https://github.com/dmcchanaka">
+<!-- <a href="https://github.com/dmcchanaka">
     <img height="150px" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dmcchanaka&hide_border=true&theme=radical" />
-</a>
+</a> -->
+![](https://github-readme-streak-stats.herokuapp.com/?user=dmcchanaka&hide_border=true&theme=radical)
+![](https://activity-graph.herokuapp.com/graph?username=dmcchanaka&theme=redical)
 
 <!--START_SECTION:waka-->
 
