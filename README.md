@@ -37,11 +37,11 @@
 
 ![Chanaka's Github Profile Views](https://komarev.com/ghpvc/?username=dmcchanaka&color=blueviolet) 
 
-<a href="https://github.com/dmcchanaka/">
-
-![](https://github.com/dmcchanaka/dmcchanaka/blob/master/generated/overview.svg)
-![](https://github.com/mahendrasaikumargandham/mahendrasaikumargandham/blob/master/generated/languages.svg)
-
+<a href="https://github.com/dmcchanaka">
+    <img height="150px" align="center" src="https://github-readme-stats.vercel.app/api?username=dmcchanaka&show_icons=true&theme=nord&line_height=27" alt="Pawan's github stats"/>
+</a>
+<a href="https://github.com/ashenud">
+    <img height="150px" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dmcchanaka&theme=nord&layout=compact&langs_count=6" />
 </a>
 
 <!--START_SECTION:waka-->
