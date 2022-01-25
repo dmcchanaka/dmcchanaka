@@ -41,7 +41,7 @@
     <img height="150px" align="center" src="https://github-readme-stats.vercel.app/api?username=dmcchanaka&show_icons=true&theme=nord&line_height=27" alt="Pawan's github stats"/>
 </a>
 <a href="https://github.com/ashenud">
-    <img height="150px" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dmcchanaka&theme=nord&layout=compact&langs_count=6" />
+    <img height="150px" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dmcchanaka&theme=nord&layout=compact&langs_count=10" />
 </a>
 
 <!--START_SECTION:waka-->
