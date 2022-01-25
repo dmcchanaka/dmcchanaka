@@ -35,3 +35,8 @@
 ![Jira](https://img.shields.io/badge/-Jira-fff?style=flat&logo=jira-software&logoColor=blue)
 ![Docker](https://img.shields.io/badge/-Docker-fff?style=flat&logo=Docker)
 
+<!--START_SECTION:waka-->
+![Profile Views](http://img.shields.io/badge/Profile%20Views-15-blue)
+
+<!--END_SECTION:waka-->
+
