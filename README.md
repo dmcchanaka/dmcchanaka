@@ -1,5 +1,6 @@
 <!-- ### Hi there  -->
 <h3>Hi there, This is <a href="#">D.M C.Chanaka (Fullstack Developer)</a><img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h3>
+![Chanaka's Github Profile Views](https://komarev.com/ghpvc/?username=dmcchanaka&color=blueviolet) 
 
 <p>I am a self-taught developer and like to study anything related to programming. Currently I am interested on @laravel and I am actively looking for a job on laravel & vueJs.</p>
 
@@ -34,8 +35,6 @@
 ![Open Source](https://img.shields.io/badge/-Open%20Source-fff?style=flat&logo=open-source-Initiative)
 ![Jira](https://img.shields.io/badge/-Jira-fff?style=flat&logo=jira-software&logoColor=blue)
 ![Docker](https://img.shields.io/badge/-Docker-fff?style=flat&logo=Docker)
-
-![Chanaka's Github Profile Views](https://komarev.com/ghpvc/?username=dmcchanaka&color=blueviolet) 
 
 <a href="https://github.com/dmcchanaka">
     <img height="150px" align="center" src="https://github-readme-stats.vercel.app/api?username=dmcchanaka&show_icons=true&theme=nord&line_height=27" alt="Pawan's github stats"/>
