@@ -39,13 +39,12 @@
 
 <a href="https://github.com/dmcchanaka/dmcchanaka">
 
-![](https://github.com/dmcchanaka/dmcchanaka/blob/master/generated/overview.svg)
-![](https://github.com/dmcchanaka/dmcchanaka/blob/master/generated/languages.svg)
+![](https://github.com/dmcchanaka/blob/master/generated/overview.svg)
+![](https://github.com/dmcchanaka/blob/master/generated/languages.svg)
 
 </a>
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-15-blue)
 
 <!--END_SECTION:waka-->
 
