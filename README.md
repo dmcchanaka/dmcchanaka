@@ -18,8 +18,8 @@
 #### Languages
 
 ![TypeScript](https://img.shields.io/badge/-TypeScript-fff?&logo=TypeScript&logoColor=007ACC)
-[![JavaScript](https://img.shields.io/badge/-JavaScript-fff?&logo=JavaScript&logoColor=ddc508)]
-[![PHP](https://img.shields.io/badge/-PHP-fff?&logo=PHP)]
+![JavaScript](https://img.shields.io/badge/-JavaScript-fff?&logo=JavaScript&logoColor=ddc508)
+![PHP](https://img.shields.io/badge/-PHP-fff?&logo=PHP)
 ![HTML](https://img.shields.io/badge/-HTML-fff?&logo=HTML5)
 ![CSS](https://img.shields.io/badge/-CSS-fff?&logo=CSS3&logoColor=blue)
 
