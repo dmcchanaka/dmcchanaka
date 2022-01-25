@@ -13,7 +13,7 @@
 <img width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="cchanaka: PHP" />&nbsp;
 <img width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="cchanaka: Laravel" />&nbsp; 
 <img width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="cchanaka: MySQL" />&nbsp; 
-<img width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="cchanaka: Docker" />&nbsp
+<img width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="cchanaka: Docker" />
 
 #### Languages
 
