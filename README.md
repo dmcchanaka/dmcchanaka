@@ -39,7 +39,7 @@
 
 <a href="https://github.com/dmcchanaka/">
 
-![](https://github.com/mahendrasaikumargandham/mahendrasaikumargandham/blob/master/generated/overview.svg)
+![](https://github.com/dmcchanaka/dmcchanaka/blob/master/generated/overview.svg)
 ![](https://github.com/mahendrasaikumargandham/mahendrasaikumargandham/blob/master/generated/languages.svg)
 
 </a>
