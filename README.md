@@ -1,5 +1,6 @@
 <!-- ### Hi there  -->
 <h3>Hi there, This is <a href="#">D.M C.Chanaka (Fullstack Developer)</a><img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h3>
+####
 ![Chanaka's Github Profile Views](https://komarev.com/ghpvc/?username=dmcchanaka&color=blueviolet) 
 
 <p>I am a self-taught developer and like to study anything related to programming. Currently I am interested on @laravel and I am actively looking for a job on laravel & vueJs.</p>
