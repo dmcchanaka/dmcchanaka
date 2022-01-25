@@ -1,4 +1,5 @@
-### Hi there 👋
+<!-- ### Hi there  -->
+<h1>Hi there, This is <a href="https://mahendrasaikumargandham.vercel.app/">Chaminda Chanaka (Fullstack Developer)</a><img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h1>
 
 
 <a align="center" href="https://github.com/dmcchanaka"> <img width="20px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="dmcchanaka: PHP" />
