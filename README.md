@@ -35,9 +35,9 @@
 ![Jira](https://img.shields.io/badge/-Jira-fff?style=flat&logo=jira-software&logoColor=blue)
 ![Docker](https://img.shields.io/badge/-Docker-fff?style=flat&logo=Docker)
 
-![Chanaka's Github Profile Views](https://komarev.com/ghpvc/?username=cchanaka&color=blueviolet) 
+![Chanaka's Github Profile Views](https://komarev.com/ghpvc/?username=dmcchanaka&color=blueviolet) 
 
-<a href="https://github.com/mahendrasaikumargandham/mahendrasaikumargandham">
+<a href="https://github.com/dmcchanaka/">
 
 ![](https://github.com/mahendrasaikumargandham/mahendrasaikumargandham/blob/master/generated/overview.svg)
 ![](https://github.com/mahendrasaikumargandham/mahendrasaikumargandham/blob/master/generated/languages.svg)
