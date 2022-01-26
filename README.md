@@ -50,6 +50,7 @@
 <a href="https://github.com/dmcchanaka">
     <img align="center" src="https://activity-graph.herokuapp.com/graph?username=dmcchanaka&theme=redical" />
 </a>
+<hr>
 
 <!--START_SECTION:waka-->
 ```text
