@@ -49,7 +49,7 @@
 </a>
 <hr>
 <a href="https://github.com/dmcchanaka">
-    <img height="150px" width="300px" align="center" src="https://activity-graph.herokuapp.com/graph?username=dmcchanaka&theme=redical" />
+    <img align="center" src="https://activity-graph.herokuapp.com/graph?username=dmcchanaka&theme=redical" />
 </a>
 
 <!--START_SECTION:waka-->
