@@ -54,6 +54,8 @@
 
 <!--START_SECTION:waka-->
 ```text
+Week: 19 January, 2022 - 25 January, 2022
+
 Vue.js       4 hrs 7 mins    ███████████████████▓░░░░░   78.83 % 
 Markdown     45 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.46 % 
 PHP          15 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.96 % 
