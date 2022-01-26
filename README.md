@@ -32,7 +32,6 @@
 ![MySQL](https://img.shields.io/badge/-MySQL-fff?style=flat&logo=mysql)
 ![Git](https://img.shields.io/badge/-Git-fff?style=flat&logo=git)
 ![Open Source](https://img.shields.io/badge/-Open%20Source-fff?style=flat&logo=open-source-Initiative)
-![Jira](https://img.shields.io/badge/-Jira-fff?style=flat&logo=jira-software&logoColor=blue)
 ![Docker](https://img.shields.io/badge/-Docker-fff?style=flat&logo=Docker)
 
 ![Chanaka's Github Profile Views](https://komarev.com/ghpvc/?username=dmcchanaka&color=blueviolet) 
@@ -45,7 +44,7 @@
 </a>
 <hr>
 <a href="https://github.com/dmcchanaka">
-    <img height="150px" width="300px" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dmcchanaka&hide_border=true&theme=radical" />
+    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dmcchanaka&hide_border=true&theme=radical" />
 </a>
 <hr>
 <a href="https://github.com/dmcchanaka">
