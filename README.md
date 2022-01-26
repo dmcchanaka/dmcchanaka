@@ -52,6 +52,11 @@
 </a>
 
 <!--START_SECTION:waka-->
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=dmcchanaka)](https://github.com/anuraghazra/github-readme-stats)
+```text
+Vue.js       4 hrs 7 mins    ███████████████████▓░░░░░   78.83 % 
+Markdown     45 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.46 % 
+PHP          15 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.96 % 
+TypeScript   4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.53 % 
+```
 <!--END_SECTION:waka-->
 
