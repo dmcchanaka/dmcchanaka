@@ -43,7 +43,7 @@
     <img height="150px" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dmcchanaka&theme=radical&layout=compact&langs_count=10" />
 </a>
 <hr>
-<div style="text-align:center">
+<div align="center">
 <a href="https://github.com/dmcchanaka">
     <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dmcchanaka&hide_border=true&theme=radical" />
 </a>
