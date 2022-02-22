@@ -53,9 +53,7 @@
 <hr>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-121%20hrs%2018%20mins-blue)
-
-![Profile Views](http://img.shields.io/badge/Profile%20Views-12-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-32-blue)
 
 **I'm an Early 🐤** 
 
@@ -112,6 +110,6 @@ JavaScript               2 repos             ████░░░░░░░�
 
 
 
- Last Updated on 22/02/2022 06:27:50 UTC
+ Last Updated on 22/02/2022 18:41:55 UTC
 <!--END_SECTION:waka-->
 
