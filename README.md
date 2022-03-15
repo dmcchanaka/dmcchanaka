@@ -53,7 +53,7 @@
 <hr>
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-9-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-26-blue)
 
 **I'm an Early 🐤** 
 
@@ -110,6 +110,6 @@ JavaScript               2 repos             ████░░░░░░░�
 
 
 
- Last Updated on 14/03/2022 18:41:24 UTC
+ Last Updated on 15/03/2022 18:42:51 UTC
 <!--END_SECTION:waka-->
 
