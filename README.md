@@ -40,8 +40,6 @@
     <img height="150px" align="center" src="https://github-readme-stats.vercel.app/api?username=dmcchanaka&show_icons=true&theme=radical&line_height=27&count_private=true" alt="chanaka's github stats"/>
 </a>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dmcchanaka&count_private=true)
-
 <a href="https://github.com/dmcchanaka">
     <img height="150px" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dmcchanaka&theme=radical&layout=compact&langs_count=10" />
 </a>
