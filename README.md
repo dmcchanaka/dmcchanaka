@@ -49,8 +49,9 @@
     <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dmcchanaka&hide_border=true&theme=radical" />
 </a>
 <hr>
-![Contribution](https://activity-graph.herokuapp.com/graph?username=CharithAbeysinghe&theme=react-dark&hide_border=true&area=true)
 </div>
+
+![Contribution](https://activity-graph.herokuapp.com/graph?username=dmcchanaka&theme=react-dark&hide_border=true&area=true)
 <hr>
 
 <!--START_SECTION:waka-->
