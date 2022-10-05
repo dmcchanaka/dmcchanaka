@@ -37,7 +37,7 @@
 ![Chanaka's Github Profile Views](https://komarev.com/ghpvc/?username=dmcchanaka&color=blueviolet) 
 
 <a href="https://github.com/dmcchanaka">
-    <img height="150px" align="center" src="https://github-readme-stats.vercel.app/api?username=dmcchanaka&show_icons=true&&include_all_commits=true&theme=radical&line_height=27&count_private=true" alt="chanaka's github stats"/>
+    <img height="150px" align="center" src="https://github-readme-stats.vercel.app/api?username=dmcchanaka&show_icons=true&include_all_commits=true&theme=radical&line_height=27&count_private=true" alt="chanaka's github stats"/>
 </a>
 
 <a href="https://github.com/dmcchanaka">
@@ -51,7 +51,7 @@
 <hr>
 </div>
 
-![Contribution](https://activity-graph.herokuapp.com/graph?username=dmcchanaka&theme=react-dark&hide_border=true&area=true)
+![Contribution](https://activity-graph.herokuapp.com/graph?username=dmcchanaka&theme=react-dark&hide_border=true&area=true&include_all_commits=true)
 <hr>
 
 <!--START_SECTION:waka-->
