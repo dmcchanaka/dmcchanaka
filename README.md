@@ -57,7 +57,7 @@
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-1%2C340%20hrs%206%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue)
 
 **🐱 My GitHub Data** 
 
@@ -131,6 +131,6 @@ Blade                    1 repo              █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/dmcchanaka/dmcchanaka/main/charts/bar_graph.png) 
 
 
- Last Updated on 04/02/2023 18:42:44 UTC
+ Last Updated on 05/02/2023 18:41:54 UTC
 <!--END_SECTION:waka-->
 
