@@ -57,7 +57,7 @@
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-1%2C814%20hrs%2017%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-14-blue)
 
 **🐱 My GitHub Data** 
 
@@ -128,6 +128,6 @@ Dart                     1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/dmcchanaka/dmcchanaka/main/assets/bar_graph.png)
 
 
- Last Updated on 11/06/2023 01:38:27 UTC
+ Last Updated on 11/06/2023 18:40:21 UTC
 <!--END_SECTION:waka-->
 
