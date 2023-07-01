@@ -57,7 +57,7 @@
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-1%2C854%20hrs%205%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-11-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-10-blue)
 
 **🐱 My GitHub Data** 
 
@@ -98,16 +98,13 @@ Sunday                   277 commits         █░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Colombo
 
 💬 Programming Languages: 
-Vue.js                   1 hr 32 mins        █████████████████░░░░░░░░   67.55 % 
-TypeScript               22 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.24 % 
-PHP                      21 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.98 % 
-Text                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.23 % 
+PHP                      7 mins              █████████████████████████   100.00 % 
 
 🔥 Editors: 
-VS Code                  2 hrs 17 mins       █████████████████████████   100.00 % 
+VS Code                  7 mins              █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  2 hrs 17 mins       █████████████████████████   100.00 % 
+Windows                  7 mins              █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in PHP** 
@@ -127,6 +124,6 @@ Dart                     1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/dmcchanaka/dmcchanaka/main/assets/bar_graph.png)
 
 
- Last Updated on 30/06/2023 18:42:59 UTC
+ Last Updated on 01/07/2023 18:41:30 UTC
 <!--END_SECTION:waka-->
 
