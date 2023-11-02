@@ -55,13 +55,13 @@
 <hr>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C278%20hrs%2012%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C285%20hrs%2033%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
 
-> 📦 865.4 kB Used in GitHub's Storage 
+> 📦 865.5 kB Used in GitHub's Storage 
  > 
 > 🏆 8 Contributions in the Year 2023
  > 
@@ -98,17 +98,17 @@ Sunday                   298 commits         █░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Colombo
 
 💬 Programming Languages: 
-JavaScript               9 hrs 37 mins       █████████░░░░░░░░░░░░░░░░   34.21 % 
-Vue.js                   7 hrs 37 mins       ███████░░░░░░░░░░░░░░░░░░   27.11 % 
-PHP                      7 hrs 33 mins       ███████░░░░░░░░░░░░░░░░░░   26.86 % 
-TypeScript               2 hrs 37 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.34 % 
-Blade Template           14 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.84 % 
+PHP                      9 hrs 11 mins       ████████░░░░░░░░░░░░░░░░░   33.57 % 
+JavaScript               8 hrs 55 mins       ████████░░░░░░░░░░░░░░░░░   32.59 % 
+Vue.js                   6 hrs 35 mins       ██████░░░░░░░░░░░░░░░░░░░   24.06 % 
+TypeScript               1 hr 47 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.54 % 
+CSS                      15 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.94 % 
 
 🔥 Editors: 
-VS Code                  28 hrs 7 mins       █████████████████████████   100.00 % 
+VS Code                  27 hrs 23 mins      █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  28 hrs 7 mins       █████████████████████████   100.00 % 
+Windows                  27 hrs 23 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -128,6 +128,6 @@ Vue                      1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/dmcchanaka/dmcchanaka/main/assets/bar_graph.png)
 
 
- Last Updated on 01/11/2023 18:41:31 UTC
+ Last Updated on 02/11/2023 18:42:12 UTC
 <!--END_SECTION:waka-->
 
