@@ -55,13 +55,15 @@
 <hr>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C830%20hrs%2041%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C846%20hrs%2046%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-8-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-4-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 927.4 kB Used in GitHub's Storage 
+ > 
+> 🏆 0 Contributions in the Year 2024
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -96,17 +98,17 @@ Sunday                   340 commits         █░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Colombo
 
 💬 Programming Languages: 
-PHP                      6 hrs 2 mins        ███████░░░░░░░░░░░░░░░░░░   29.69 % 
-Vue.js                   5 hrs 53 mins       ███████░░░░░░░░░░░░░░░░░░   28.95 % 
-TypeScript               3 hrs 38 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.88 % 
-JavaScript               2 hrs 59 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.69 % 
-Other                    51 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.21 % 
+Vue.js                   7 hrs 30 mins       ██████████░░░░░░░░░░░░░░░   38.80 % 
+JavaScript               5 hrs 36 mins       ███████░░░░░░░░░░░░░░░░░░   29.02 % 
+PHP                      3 hrs 23 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.50 % 
+TypeScript               1 hr 42 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.81 % 
+Other                    28 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.44 % 
 
 🔥 Editors: 
-VS Code                  20 hrs 20 mins      █████████████████████████   100.00 % 
+VS Code                  19 hrs 20 mins      █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  20 hrs 20 mins      █████████████████████████   100.00 % 
+Windows                  19 hrs 20 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in PHP** 
@@ -126,6 +128,6 @@ Vue                      1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/dmcchanaka/dmcchanaka/main/assets/bar_graph.png)
 
 
- Last Updated on 20/04/2024 18:40:45 UTC
+ Last Updated on 26/04/2024 18:41:06 UTC
 <!--END_SECTION:waka-->
 
