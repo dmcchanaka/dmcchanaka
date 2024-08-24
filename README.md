@@ -55,15 +55,13 @@
 <hr>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%2C413%20hrs%2020%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-3%2C413%20hrs%2058%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-17-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 928.0 kB Used in GitHub's Storage 
- > 
-> 🏆 0 Contributions in the Year 2024
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -98,15 +96,16 @@ Sunday                   340 commits         █░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Colombo
 
 💬 Programming Languages: 
-JavaScript               8 hrs 7 mins        ██████████████░░░░░░░░░░░   57.95 % 
-PHP                      5 hrs 53 mins       ███████████░░░░░░░░░░░░░░   42.04 % 
-Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
+JavaScript               5 hrs 41 mins       ███████████████░░░░░░░░░░   61.00 % 
+PHP                      3 hrs               ████████░░░░░░░░░░░░░░░░░   32.28 % 
+Docker                   21 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.81 % 
+JSON                     16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.92 % 
 
 🔥 Editors: 
-VS Code                  14 hrs 1 min        █████████████████████████   100.00 % 
+VS Code                  9 hrs 20 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  14 hrs 1 min        █████████████████████████   100.00 % 
+Windows                  9 hrs 20 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in PHP** 
@@ -126,6 +125,6 @@ Vue                      1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/dmcchanaka/dmcchanaka/main/assets/bar_graph.png)
 
 
- Last Updated on 23/08/2024 18:44:29 UTC
+ Last Updated on 24/08/2024 18:43:23 UTC
 <!--END_SECTION:waka-->
 
