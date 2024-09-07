@@ -55,15 +55,13 @@
 <hr>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%2C442%20hrs%2013%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-3%2C443%20hrs%2050%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 928.0 kB Used in GitHub's Storage 
- > 
-> 🏆 0 Contributions in the Year 2024
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -98,17 +96,17 @@ Sunday                   340 commits         █░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Colombo
 
 💬 Programming Languages: 
-Blade Template           2 hrs 53 mins       █████░░░░░░░░░░░░░░░░░░░░   20.97 % 
-Vue.js                   2 hrs 24 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.47 % 
-PHP                      2 hrs 14 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.35 % 
-TypeScript               2 hrs 3 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.96 % 
-JavaScript               1 hr 6 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.01 % 
+Blade Template           3 hrs 42 mins       ███████░░░░░░░░░░░░░░░░░░   26.62 % 
+PHP                      2 hrs 16 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.32 % 
+TypeScript               2 hrs 1 min         ████░░░░░░░░░░░░░░░░░░░░░   14.51 % 
+Vue.js                   1 hr 52 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.46 % 
+JavaScript               1 hr 6 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.90 % 
 
 🔥 Editors: 
-VS Code                  13 hrs 45 mins      █████████████████████████   100.00 % 
+VS Code                  13 hrs 56 mins      █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  13 hrs 45 mins      █████████████████████████   100.00 % 
+Windows                  13 hrs 56 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in PHP** 
@@ -128,6 +126,6 @@ Vue                      1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/dmcchanaka/dmcchanaka/main/assets/bar_graph.png)
 
 
- Last Updated on 06/09/2024 18:46:13 UTC
+ Last Updated on 07/09/2024 18:44:44 UTC
 <!--END_SECTION:waka-->
 
