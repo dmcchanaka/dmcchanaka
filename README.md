@@ -55,15 +55,13 @@
 <hr>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%2C485%20hrs%2046%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-3%2C491%20hrs%2033%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
 
-> 📦 933.9 kB Used in GitHub's Storage 
- > 
-> 🏆 0 Contributions in the Year 2024
+> 📦 934.0 kB Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -98,17 +96,17 @@ Sunday                   340 commits         █░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Colombo
 
 💬 Programming Languages: 
-TypeScript               14 hrs 13 mins      ████████░░░░░░░░░░░░░░░░░   33.90 % 
-Vue.js                   9 hrs 11 mins       █████░░░░░░░░░░░░░░░░░░░░   21.91 % 
-CSS                      4 hrs 50 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.53 % 
-JavaScript               3 hrs 32 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.44 % 
-JSON                     3 hrs 31 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.40 % 
+TypeScript               14 hrs 43 mins      ████████░░░░░░░░░░░░░░░░░   33.65 % 
+Vue.js                   10 hrs 53 mins      ██████░░░░░░░░░░░░░░░░░░░   24.91 % 
+CSS                      4 hrs 50 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.06 % 
+JSON                     3 hrs 24 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.80 % 
+JavaScript               3 hrs 10 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.26 % 
 
 🔥 Editors: 
-VS Code                  41 hrs 56 mins      █████████████████████████   100.00 % 
+VS Code                  43 hrs 44 mins      █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  41 hrs 56 mins      █████████████████████████   100.00 % 
+Windows                  43 hrs 44 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in PHP** 
@@ -128,6 +126,6 @@ Vue                      2 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/dmcchanaka/dmcchanaka/main/assets/bar_graph.png)
 
 
- Last Updated on 14/09/2024 18:44:58 UTC
+ Last Updated on 15/09/2024 18:45:36 UTC
 <!--END_SECTION:waka-->
 
