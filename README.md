@@ -55,7 +55,7 @@
 <hr>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%2C617%20hrs%2058%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-3%2C618%20hrs%209%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -98,14 +98,14 @@ Sunday                   341 commits         █░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Colombo
 
 💬 Programming Languages: 
-PHP                      31 mins             █████████████████████████   99.95 % 
-Apache Config            0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 % 
+HTML                     7 mins              ███████████████████░░░░░░   75.17 % 
+JavaScript               2 mins              ██████░░░░░░░░░░░░░░░░░░░   24.83 % 
 
 🔥 Editors: 
-VS Code                  31 mins             █████████████████████████   100.00 % 
+VS Code                  10 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  31 mins             █████████████████████████   100.00 % 
+Windows                  10 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in PHP** 
@@ -125,6 +125,6 @@ Vue                      2 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/dmcchanaka/dmcchanaka/main/assets/bar_graph.png)
 
 
- Last Updated on 05/11/2024 18:47:40 UTC
+ Last Updated on 06/11/2024 18:48:01 UTC
 <!--END_SECTION:waka-->
 
