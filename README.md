@@ -63,8 +63,6 @@
 
 > 📦 936.8 kB Used in GitHub's Storage 
  > 
-> 🏆 0 Contributions in the Year 2025
- > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 15 Public Repositories 
@@ -98,15 +96,13 @@ Sunday                   354 commits         █░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Colombo
 
 💬 Programming Languages: 
-HTML                     9 mins              ███████████████░░░░░░░░░░   59.59 % 
-TypeScript               6 mins              ██████████░░░░░░░░░░░░░░░   40.27 % 
-SCSS                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.13 % 
+HTML                     0 secs              █████████████████████████   100.00 % 
 
 🔥 Editors: 
-VS Code                  15 mins             █████████████████████████   100.00 % 
+VS Code                  0 secs              █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  15 mins             █████████████████████████   100.00 % 
+Windows                  0 secs              █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -126,6 +122,6 @@ Vue                      3 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/dmcchanaka/dmcchanaka/main/assets/bar_graph.png)
 
 
- Last Updated on 19/04/2025 18:46:47 UTC
+ Last Updated on 20/04/2025 18:48:35 UTC
 <!--END_SECTION:waka-->
 
