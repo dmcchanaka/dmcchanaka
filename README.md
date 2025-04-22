@@ -55,9 +55,9 @@
 <hr>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%2C983%20hrs%2015%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-3%2C986%20hrs%2014%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-17-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
 
@@ -98,15 +98,15 @@ Sunday                   354 commits         █░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Colombo
 
 💬 Programming Languages: 
-HTML                     50 mins             ███████████████░░░░░░░░░░   58.11 % 
-SCSS                     23 mins             ███████░░░░░░░░░░░░░░░░░░   26.74 % 
-TypeScript               13 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.15 % 
+HTML                     2 hrs 5 mins        ████████████░░░░░░░░░░░░░   47.30 % 
+TypeScript               1 hr 56 mins        ███████████░░░░░░░░░░░░░░   43.95 % 
+SCSS                     23 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.75 % 
 
 🔥 Editors: 
-VS Code                  1 hr 27 mins        █████████████████████████   100.00 % 
+VS Code                  4 hrs 26 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  1 hr 27 mins        █████████████████████████   100.00 % 
+Windows                  4 hrs 26 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -126,6 +126,6 @@ Vue                      3 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/dmcchanaka/dmcchanaka/main/assets/bar_graph.png)
 
 
- Last Updated on 21/04/2025 18:51:47 UTC
+ Last Updated on 22/04/2025 18:50:59 UTC
 <!--END_SECTION:waka-->
 
